@@ -5,7 +5,7 @@ author: Christopher Robison (@CBobRobison)
 discussions-to: https://t.me/joinchat/BP2EeRnxgLMKQ1jCyxgJfA
 status: Draft
 type: Standards Track
-category Interface
+category: Interface
 created: 2020-05-12
 requires (*optional): <EIP number(s)>
 replaces (*optional): <EIP number(s)>
